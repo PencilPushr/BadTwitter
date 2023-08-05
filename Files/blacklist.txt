@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+french
+frenchman
+france
+paris
+parisian
+new
+foook
+=======
+french
+frenchman
+france
+paris
+parisian
+new
+foook
+>>>>>>> origin/master
